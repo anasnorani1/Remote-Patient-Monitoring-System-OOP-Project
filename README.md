@@ -97,8 +97,35 @@ Update your local database settings:
 2. String password = "yourpass"; // ← Change this
 Ensure your MySQL service is running and credentials are correct.
 
----
-### 🔹 5. 👨‍💻 Contributors
+
+---### 🔹 5. Configure Email Functionality
+
+This project uses the **Jakarta Mail API** to send emails for:
+
+- Emergency alerts  
+- Login credentials  
+- Reminders  
+- Doctor-patient messaging  
+
+#### 📂 Files to Update
+
+Update the sender email and App Password in the following files:
+
+- `EmailSender.java`
+- `EmailUtil.java`
+- `EmergencyAlertHandler.java`
+- `PatientReminderService.java`
+- `AddDoctorForm.java`
+- `AddPatientForm.java`
+- `MessageDoctorForm.java`
+
+Replace the credentials in each file:
+
+```java
+String senderEmail = "youremail@gmail.com";
+String senderPassword = "your_app_password";
+```
+### 🔹 6. 👨‍💻 Contributors
 -Anas Norani
 
 ---
