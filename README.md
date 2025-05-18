@@ -111,5 +111,4 @@ https://drive.google.com/file/d/101eFHRd53TDm60aFDLEgJZ6bVbrOZwrf/view?usp=shari
 
 Let me know if you'd like:
 - This as a downloadable `README.md` file
-- A `.zip` with full project structure and placeholder files ready to push to GitHub
-I can generate and send that instantly.
+- A `.rar` with full project code fileshas been added you just have to open it in IntelliJ And have to follow the steps 
