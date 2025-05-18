@@ -102,6 +102,13 @@ Ensure your MySQL service is running and credentials are correct.
 -Anas Norani
 
 ---
+## 🎥 Demo Video
+
+Watch the working demo of the **Remote Patient Monitoring System** here:
+
+👉 [Click to Watch Demo Video]([https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing](https://drive.google.com/file/d/101eFHRd53TDm60aFDLEgJZ6bVbrOZwrf/view?usp=sharing))
+https://drive.google.com/file/d/101eFHRd53TDm60aFDLEgJZ6bVbrOZwrf/view?usp=sharing
+
 Let me know if you'd like:
 - This as a downloadable `README.md` file
 - A `.zip` with full project structure and placeholder files ready to push to GitHub
